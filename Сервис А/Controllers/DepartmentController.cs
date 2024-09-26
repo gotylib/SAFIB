@@ -1,17 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 using DataBase;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Сервис_А.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class DepartmentController : ControllerBase
     {
         private readonly ILogger<DepartmentController> _logger;
-        private readonly ApplicationContext _db; // Добавьте контекст базы данных
+        private readonly ApplicationContext _db; 
 
-        public DepartmentController(ILogger<DepartmentController> logger, ApplicationContext db) // Добавьте контекст в конструктор
+        public DepartmentController(ILogger<DepartmentController> logger, ApplicationContext db) 
         {
             _logger = logger;
             _db = db;

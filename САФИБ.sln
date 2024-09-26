@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сервис А", "Сервис А\Сервис А.csproj", "{E113B4F4-C7E2-481E-9DEB-99B582902E2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serves2", "Сервис А\Serves2.csproj", "{E113B4F4-C7E2-481E-9DEB-99B582902E2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сервис Б", "Сервис Б\Сервис Б.csproj", "{81FC8322-9CC9-4256-A448-8D3C6DAC67CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Setves1", "Сервис Б\Setves1.csproj", "{81FC8322-9CC9-4256-A448-8D3C6DAC67CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "DataBase\DataBase.csproj", "{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

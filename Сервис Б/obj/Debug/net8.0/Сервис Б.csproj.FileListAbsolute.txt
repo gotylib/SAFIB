@@ -40,3 +40,18 @@ E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.dll
 E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.pdb
 E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.csproj.AssemblyReference.cache
 E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.csproj.Up2Date
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.sourcelink.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\file.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\libman.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.MvcApplicationPartsAssemblyInfo.cs

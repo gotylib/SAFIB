@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Setves1.props" />
+</Project>

@@ -40,3 +40,12 @@ E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Npgsql.dll
 E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\DataBase.dll
 E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\DataBase.pdb
+E:\repos\САФИБ\Сервис А\obj\Debug\net8.0\Сервис А.sourcelink.json
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\repos\САФИБ\Сервис А\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,15 +1,27 @@
-﻿// Создаем объект контекста
-using DataBase;
+﻿using DataBase;
+using Microsoft.EntityFrameworkCore;
 
-using (var db = new ApplicationContext())
+void PrintDepartmentHierarchy(Department department, int indentLevel)
 {
-    // Заполняем таблицу Departments данными
-    db.Departments.AddRange(
-        new Department { Name = "Отдел продаж", ParentId = null, Status = "Активно" },
-        new Department { Name = "Отдел маркетинга", ParentId = 1, Status = "Заблокировано" },
-        new Department { Name = "Отдел разработки", ParentId = null, Status = "Активно" }
-    );
-    db.SaveChanges();
+    // Выводим информацию о текущем подразделении
+    Console.WriteLine($"{new string(' ', indentLevel * 4)}ID: {department.Id}, Name: {department.Name}, Status: {department.Status}");
+
+    // Рекурсивно выводим всех дочерних подразделений
+    foreach (var child in department.Children)
+    {
+        PrintDepartmentHierarchy(child, indentLevel + 1);
+    }
 }
 
+    // Выводим данные из базы
+    using (var db = new ApplicationContext())
+{
+    var departments = db.Departments.Include(d => d.Children).ToList();
+    Console.WriteLine("Список подразделений:");
+
+    foreach (var department in departments.Where(d => d.ParentId == null))
+    {
+        PrintDepartmentHierarchy(department, 0);
+    }
+}
 Console.WriteLine("База данных создана и заполнена данными.");
