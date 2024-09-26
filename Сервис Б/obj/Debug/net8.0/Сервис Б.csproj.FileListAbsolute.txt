@@ -1,0 +1,42 @@
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\appsettings.Development.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\appsettings.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Сервис Б.staticwebassets.runtime.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Сервис Б.exe
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Сервис Б.deps.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Сервис Б.runtimeconfig.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Сервис Б.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Сервис Б.pdb
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.AssemblyInfoInputs.cache
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.AssemblyInfo.cs
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.csproj.CoreCompileInputs.cache
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.MvcApplicationPartsAssemblyInfo.cache
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.RazorAssemblyInfo.cache
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.RazorAssemblyInfo.cs
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets.build.json
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets.development.json
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets\msbuild.Сервис Б.Microsoft.AspNetCore.StaticWebAssets.props
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets\msbuild.build.Сервис Б.props
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Сервис Б.props
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Сервис Б.props
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\staticwebassets.pack.json
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\scopedcss\bundle\Сервис Б.styles.css
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\scopedcss\projectbundle\Сервис Б.bundle.scp.css
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.dll
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\refint\Сервис Б.dll
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.pdb
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.genruntimeconfig.cache
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\ref\Сервис Б.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.deps.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.runtimeconfig.json
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.exe
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Npgsql.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.dll
+E:\repos\САФИБ\Сервис Б\bin\Debug\net8.0\DataBase.pdb
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.csproj.AssemblyReference.cache
+E:\repos\САФИБ\Сервис Б\obj\Debug\net8.0\Сервис Б.csproj.Up2Date
