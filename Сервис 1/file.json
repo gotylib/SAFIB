@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Sales Department",
+    "ParentId": null,
+    "Status": "Active"
+  },
+  {
+    "Id": 2,
+    "Name": "Marketing Department",
+    "ParentId": 1,
+    "Status": "Blocked"
+  },
+  {
+    "Id": 3,
+    "Name": "Development Department",
+    "ParentId": null,
+    "Status": "Active"
+  },
+  {
+    "Id": 4,
+    "Name": "Customer Support",
+    "ParentId": 1,
+    "Status": "Active"
+  },
+  {
+    "Id": 5,
+    "Name": "IT Department",
+    "ParentId": 3,
+    "Status": "Active"
+  },
+  {
+    "Id": 6,
+    "Name": "Quality Assurance",
+    "ParentId": 5,
+    "Status": "Active"
+  },
+  {
+    "Id": 7,
+    "Name": "Human Resources",
+    "ParentId": null,
+    "Status": "Inactive"
+  },
+  {
+    "Id": 8,
+    "Name": "Finance Department",
+    "ParentId": null,
+    "Status": "Active"
+  },
+  {
+    "Id": 9,
+    "Name": "Legal Department",
+    "ParentId": null,
+    "Status": "Blocked"
+  },
+  {
+    "Id": 10,
+    "Name": "Research and Development",
+    "ParentId": 3,
+    "Status": "Active"
+  }
+]
