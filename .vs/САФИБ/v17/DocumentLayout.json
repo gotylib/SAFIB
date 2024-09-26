@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\\u0441\u0435\u0440\u0432\u0438\u0441 1\\file.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|solutionrelative:\u0441\u0435\u0440\u0432\u0438\u0441 1\\file.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\\u0441\u0435\u0440\u0432\u0438\u0441 1\\controllers\\departmentsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|solutionrelative:\u0441\u0435\u0440\u0432\u0438\u0441 1\\controllers\\departmentsynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}|DataBase\\DataBase.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}|DataBase\\DataBase.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\\u0441\u0435\u0440\u0432\u0438\u0441 1\\file.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|solutionrelative:\u0441\u0435\u0440\u0432\u0438\u0441 1\\file.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F972DB8A-8E46-4676-94D3-91B3519175F9}|\u0421\u0435\u0440\u0432\u0438\u0441 1\\Setves1.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\\u0441\u0435\u0440\u0432\u0438\u0441 1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06DE5FB0-0108-41DB-9668-DDABB703076D}|\u0421\u0435\u0440\u0432\u0438\u0441 2\\Serves2.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\\u0441\u0435\u0440\u0432\u0438\u0441 2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06DE5FB0-0108-41DB-9668-DDABB703076D}|\u0421\u0435\u0440\u0432\u0438\u0441 2\\Serves2.csproj|solutionrelative:\u0441\u0435\u0440\u0432\u0438\u0441 2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}|DataBase\\DataBase.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}|DataBase\\DataBase.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F444B2D-14AA-4D5F-8262-E1116C3FC77B}|DataBase\\DataBase.csproj|e:\\repos\\\u0441\u0430\u0444\u0438\u0431\\database\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "libman.json",
               "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\\u0421\u0435\u0440\u0432\u0438\u0441 1\\libman.json",
               "RelativeDocumentMoniker": "\u0421\u0435\u0440\u0432\u0438\u0441 1\\libman.json",
@@ -130,25 +130,24 @@
               "RelativeToolTip": "\u0421\u0435\u0440\u0432\u0438\u0441 1\\libman.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T13:42:21.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T13:42:21.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DepartmentSyncController.cs",
               "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\\u0421\u0435\u0440\u0432\u0438\u0441 1\\Controllers\\DepartmentSyncController.cs",
               "RelativeDocumentMoniker": "\u0421\u0435\u0440\u0432\u0438\u0441 1\\Controllers\\DepartmentSyncController.cs",
               "ToolTip": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\\u0421\u0435\u0440\u0432\u0438\u0441 1\\Controllers\\DepartmentSyncController.cs",
               "RelativeToolTip": "\u0421\u0435\u0440\u0432\u0438\u0441 1\\Controllers\\DepartmentSyncController.cs",
-              "ViewState": "AQIAAL8AAAAAAAAAAAAqwMsAAAAQAAAA",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAIwOYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T13:39:59.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\\u0421\u0435\u0440\u0432\u0438\u0441 2\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "\u0421\u0435\u0440\u0432\u0438\u0441 2\\Controllers\\DepartmentController.cs",
@@ -156,12 +155,11 @@
               "RelativeToolTip": "\u0421\u0435\u0440\u0432\u0438\u0441 2\\Controllers\\DepartmentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T13:33:46.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T13:33:46.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "file.json",
               "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\\u0421\u0435\u0440\u0432\u0438\u0441 1\\file.json",
               "RelativeDocumentMoniker": "\u0421\u0435\u0440\u0432\u0438\u0441 1\\file.json",
@@ -233,6 +231,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\DataBase\\Program.cs",
+              "RelativeDocumentMoniker": "DataBase\\Program.cs",
+              "ToolTip": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\DataBase\\Program.cs",
+              "RelativeToolTip": "DataBase\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:45:44.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\\u0421\u0435\u0440\u0432\u0438\u0441 \u0411\\Views\\_ViewStart.cshtml",
@@ -253,21 +264,7 @@
               "RelativeToolTip": "DataBase\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:49:04.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\DataBase\\Program.cs",
-              "RelativeDocumentMoniker": "DataBase\\Program.cs",
-              "ToolTip": "E:\\repos\\\u0421\u0410\u0424\u0418\u0411\\DataBase\\Program.cs",
-              "RelativeToolTip": "DataBase\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAmwC0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T05:45:44.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T05:49:04.671Z"
             },
             {
               "$type": "Document",
